@@ -24,7 +24,7 @@ Estoy buscando mi primera oportunidad laboral en IT.
 ---
 
 ## 📬 Contacto
-- **Portfolio:** https://tu-portfolio.vercel.app  
-- **LinkedIn:** TU-LINK  
-- **Email:** tuemail@gmail.com
+- **Portfolio:** https://portfolio-nine-pink-62.vercel.app/ 
+- **LinkedIn:** https://www.linkedin.com/in/juan-jos%C3%A9-pereyra-44aabb300/  
+- **Email:** juanjopereyra0@gmail.com
 
