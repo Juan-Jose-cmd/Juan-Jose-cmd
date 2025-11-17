@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! Soy Juan José 👋
 
-<!--
-**Juan-Jose-cmd/Juan-Jose-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React | JavaScript | HTML | CSS
 
-Here are some ideas to get you started:
+Soy un desarrollador web en crecimiento, enfocado en crear interfaces modernas, funcionales y visualmente atractivas.  
+Estoy buscando mi primera oportunidad laboral en IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías que manejo
+- HTML, CSS, JavaScript
+- React, Vite
+- Git & GitHub
+- Responsive design
+
+---
+
+## ⭐ Mis Proyectos Destacados
+- **Portfolio personal**  
+- **Gestor de Turnos (React + Vite)**  
+- **Netflix Clone**  
+- **Mini Ecommerce con carrito**
+
+---
+
+## 📬 Contacto
+- **Portfolio:** https://tu-portfolio.vercel.app  
+- **LinkedIn:** TU-LINK  
+- **Email:** tuemail@gmail.com
+
